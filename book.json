@@ -1,0 +1,15 @@
+{
+    "plugins": [
+        "expandable-chapters",
+        "localized-footer"
+    ],
+    
+    "localized-footer": {
+        "hline": true,
+        "filename": "FOOTER.md"
+    },
+
+    "styles": {
+        "website": "styles/website.css"
+    }
+}
